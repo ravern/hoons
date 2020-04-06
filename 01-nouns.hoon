@@ -1,0 +1,2 @@
+|=  atom=@
+`@ta`atom
