@@ -1,3 +1,3 @@
 # Hoons
 
-Assignments from Hoon School!
+Assignments from Hoon School
